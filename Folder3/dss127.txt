@@ -1,3 +1,0 @@
-Line1
-Line2
-Line3 at Tue Jun 01 03:04:04 EDT 2021
